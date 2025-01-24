@@ -13,12 +13,12 @@ const config: Config = {
   url: 'https://pranays.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/MyDocSite',
+  baseUrl: '/my-doc-site',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MYSITEPRANAY', // Usually your GitHub org/user name.
-  projectName: 'Portfolio-App', // Usually your repo name.
+  organizationName: 'pranays-74', // Usually your GitHub org/user name.
+  projectName: 'my-doc-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/pranays-74/MyDocSite.git',
+            'https://github.com/pranays-74/my-doc-site.git',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/pranays-74/MyDocSite.git',
+            'https://github.com/pranays-74/my-doc-site.git',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
