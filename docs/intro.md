@@ -2,46 +2,58 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Profile
 
-## Getting Started
+I am Pranay Shende, **a results-oriented software developer** with over 5 years of experience in designing, developing, and executing robust software solutions. My expertise spans **Node.js, Express.js, and JavaScript,** with advanced proficiency in **MongoDB and Azure Cosmos DB** for efficient database management and a strong foundation in MySQL.
 
-Get started by **creating a new site**.
+I specialize in implementing **JWT authentication and authorization mechanisms,** ensuring secure and reliable systems. I have experience designing, building, developing, and deploying solutions using **Azure serverless services (including Cosmos DB, Key Vault, and Logic Apps) and a variety of other Azure tools**, following monorepo project structures for scalable and maintainable codebases.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Additionally, I have contributed to **GraphQL projects**, streamlining data fetching and analytics workflows. My toolkit includes `REST API Development, OAuth, React.js, Redux, Git, Docker, and containerized deployments.` I excel at **collaborating with cross-functional teams, quickly adapting to new technologies, and delivering innovative and reliable solutions.**
 
-### What you'll need
+## Profile Summary
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Technical Skills:
 
-## Generate a new site
+1. Programming Languages/Technologies: JavaScript, ES6, Node.js, Express.js, React.js, Redux
+2. Databases: MongoDB, SQL Database, MySQL, NoSQL
+3. APIs & Security: REST API Development, GraphQL, OAuth, JWT Authentication and Authorization
+4. Tools & Platforms: Azure Serverless Services, Git, Docker, Monorepo, Mocha, Backend Development
 
-Generate a new Docusaurus site using the **classic template**.
+## Certifications
 
-The classic template will automatically be added to your project after you run the command:
+1. Azure Fundamentals (AZ-900)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Issuer: Microsoft
+- Credential Link: [AZ-900 Credential](https://www.credly.com/badges/cf98fac7-868d-48e5-9c14-bcb485026337)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Validity: Jun 2021 to Jul 2022
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+2. Azure Administrator Associate (AZ-104)
 
-## Start your site
+- Issuer: Microsoft
+- Credential Link: [AZ-104 Credential](https://www.credly.com/badges/cae2a0eb-3ed8-4791-97d0-ad3232937436)
+- Validity: Jul 2021 to Jul 2022
 
-Run the development server:
+3. Lean Six Sigma White Belt Certified
 
-```bash
-cd my-website
-npm run start
-```
+- Validity: Not Mentioned
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+4. Python Beginner Certified
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Validity: Not Mentioned
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Education
+
+1. B.Tech/B.E. in Electronics/Telecommunication
+
+- Pune Institute of Computer Technology, Pune (2016–2019) | Full Time
+
+2. Class XII
+
+- Diploma (2016)
+
+3. Class X
+
+- Maharashtra (2013)
